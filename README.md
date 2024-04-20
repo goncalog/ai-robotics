@@ -22,9 +22,9 @@ Learn how to:
 2 - Head tricks [Coming soon]
 
 ![humanoid_head_bounces movie](https://github.com/goncalog/ai-robotics/raw/main/gifs/humanoid_head_7.gif)
-![humanoid_head_ballance movie](https://github.com/goncalog/ai-robotics/raw/main/gifs/humanoid_head_ballance.gif)
-
 ![humanoid_box_head_bounces movie](https://github.com/goncalog/ai-robotics/raw/main/gifs/humanoid_box_head_30.gif)
+
+![humanoid_head_ballance movie](https://github.com/goncalog/ai-robotics/raw/main/gifs/humanoid_head_balance.gif)
 
 3 - Penalty taking and stopping [Coming soon]
 
