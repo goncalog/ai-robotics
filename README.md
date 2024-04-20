@@ -9,23 +9,6 @@ Go From -> To
 ![humanoid_falling movie](https://github.com/goncalog/ai-robotics/raw/main/gifs/first.gif)
 ![op3_foot_bounces movie](https://github.com/goncalog/ai-robotics/raw/main/gifs/op3_17.gif)
 
-<div style="display:flex; justify-content:center;">
-  <div style="flex:1; text-align:center;">
-    <h3>Title 1</h3>
-    <div style="position:relative;">
-      <img src="https://github.com/goncalog/ai-robotics/raw/main/gifs/first.gif" alt="humanoid falling" style="width:100%;">
-      <div style="position:absolute;top:0;left:0;background-color:rgba(0,0,0,0.5);color:white;width:100%;text-align:center;">Go from</div>
-    </div>
-  </div>
-  <div style="flex:1; text-align:center;">
-    <h3>Title 2</h3>
-    <div style="position:relative;">
-      <img src="https://github.com/goncalog/ai-robotics/raw/main/gifs/op3_17.gif" alt="op3 foot bounces" style="width:100%;">
-      <div style="position:absolute;top:0;left:0;background-color:rgba(0,0,0,0.5);color:white;width:100%;text-align:center;">To</div>
-    </div>
-  </div>
-</div>
-
 Learn how to:
 - tune training hyperparameters for better model performance
 - optimise reward functions for faster learning
