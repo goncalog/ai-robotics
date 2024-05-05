@@ -26,7 +26,7 @@ Learn how to:
 
 ![humanoid_head_ballance movie](https://github.com/goncalog/ai-robotics/raw/main/gifs/humanoid_head_balance.gif)
 
-3 - Penalty taking and stopping [Coming soon]
+3 - [Penalty taking and stopping](https://github.com/goncalog/ai-robotics/blob/main/tutorials/penalties.ipynb)
 
 ![great_goal movie](https://github.com/goncalog/ai-robotics/raw/main/gifs/great_goal.gif)
 ![great_save movie](https://github.com/goncalog/ai-robotics/raw/main/gifs/great_save.gif)
