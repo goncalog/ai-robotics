@@ -31,7 +31,7 @@ Learn how to:
 ![great_goal movie](https://github.com/goncalog/ai-robotics/raw/main/gifs/great_goal.gif)
 ![great_save movie](https://github.com/goncalog/ai-robotics/raw/main/gifs/great_save.gif)
 
-4 - Robot tricks [Coming soon]
+4 - [Robot tricks](https://github.com/goncalog/ai-robotics/blob/main/tutorials/robot_tricks.ipynb)
 
 ![op3_foot_bounces movie](https://github.com/goncalog/ai-robotics/raw/main/gifs/op3_17.gif)
 ![op3_foot_ballance movie](https://github.com/goncalog/ai-robotics/raw/main/gifs/op3_foot_ballance.gif)
