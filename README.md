@@ -36,6 +36,10 @@ Learn how to:
 ![op3_foot_bounces movie](https://github.com/goncalog/ai-robotics/raw/main/gifs/op3_17.gif)
 ![op3_foot_ballance movie](https://github.com/goncalog/ai-robotics/raw/main/gifs/op3_foot_ballance.gif)
 
+5 - Box handling [Coming soon]
+
+![h1_box_handling movie](https://github.com/goncalog/ai-robotics/raw/main/gifs/box_handling.gif)
+
 ## Notes
 * Most of these results can be achieved in a few hours of GPU training. Sometimes less. And for free on [Kaggle](https://www.kaggle.com/) (30h per week usage limit)
 * Notebooks originally adapted from [Mujoco's MJX tutorial](https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/mjx/tutorial.ipynb)
